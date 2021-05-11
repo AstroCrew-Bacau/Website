@@ -183,6 +183,7 @@ Jobs
   padding: 0.25rem 0;
   line-height: 1;
   outline-color: var(--clr-primary-10);
+  color: var(--clr-primary-10);
 }
 .job-btn:hover {
   color: var(--clr-primary-5);
